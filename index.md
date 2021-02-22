@@ -14,7 +14,9 @@ layout: default
 
 <br>
 
-{% include 04-lists.md %}
+1. Watermelon
+2. Apple
+3. Banana
 
 <br>
 
