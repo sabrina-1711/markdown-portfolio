@@ -14,9 +14,9 @@ layout: default
 
 <br>
 
-- 1. Watermelon
-- 2. Apple
-- 3. Banana
+- Watermelon
+- Apple
+- Banana
 
 <br>
 
