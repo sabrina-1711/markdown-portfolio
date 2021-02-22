@@ -12,3 +12,12 @@ layout: default
 
 {% include 03-links.md %}
 
+<br>
+
+- Watermelon
+- Apple
+- Banana
+
+<br>
+
+{% include 05-emphasis.md %}
